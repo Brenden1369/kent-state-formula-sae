@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #0b0b0b;
+  color: #ffffff;
+}
+
+.hero {
+  background: linear-gradient(135deg, #002664, #f9b000);
+  text-align: center;
+  padding: 80px 20px;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+
+.hero p {
+  font-size: 1.5rem;
+}
+
+section {
+  padding: 60px 20px;
+  max-width: 900px;
+  margin: auto;
+}
+
+h2 {
+  color: #f9b000;
+}
+
+.sponsors .sponsor-note {
+  font-style: italic;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #111;
+  font-size: 0.9rem;
+}
